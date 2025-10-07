@@ -2,19 +2,20 @@
 
 **Official repository for our paper**  
 **"VLFly: A Grounded Vision-Language UAV Navigation Framework for Open-Vocabulary Goal Understanding"**  
-📝 Under review. Code will be released after the review process is complete.
+📝 Currently under revision. Code will be released after the resubmission and once the first-round reviews are favorable.
 
 ---
 
 ## 📅 Timeline
 
-| Stage              | Status         |
-|--------------------|----------------|
-| Paper submission   | ✅ Submitted    |
-| Peer review        | ⏳ In progress  |
-| Code release       | 🔒 Coming soon |
-
+| Stage                        | Status / Note |
+|------------------------------|----------------|
+| **Initial submission**       | 📄 Submitted on *June 2025* |
+| **Decision (first submission)** | ❌ *Rejected on October 7, 2025* |
+| **Resubmission preparation** | 🔧 In progress |
+| **Code release plan**        | 🔓 Will be released once the first-round review of the resubmission shows positive feedback |
+| **Paper resubmission**       | 🕐 Planned for *late 2025* |
 
 ---
 
-⭐️ Star this repo to stay updated!
+⭐️ **Star this repository** to stay updated on future releases and paper revisions.
