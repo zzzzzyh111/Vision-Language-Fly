@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  <img src="./Assets/indoor_tra.jpg" alt="Indoor trajectory result" width="49%">
-  <img src="./Assets/indoor_waypoints.jpg" alt="Indoor waypoint prediction" width="49%">
+  <img src="./Assets/indoor_tra.jpg" alt="Indoor trajectory result" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);">
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="96%">
-    </td>
-    <td align="center" width="50%">
-      <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="96%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./Assets/indoor_waypoints.jpg" alt="Indoor waypoint prediction" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);">
+</p>
+
+<p align="center">
+  <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);">
+</p>
+
+<p align="center">
+  <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="900" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);">
+</p>
 
 <a id="readme-top"></a>
 
