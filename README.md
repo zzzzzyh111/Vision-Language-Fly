@@ -13,10 +13,16 @@
   <img src="./Assets/indoor_waypoints.jpg" alt="Indoor waypoint prediction" width="49%">
 </p>
 
-<p align="center">
-  <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="49%">
-  <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="49%">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="96%">
+    </td>
+    <td align="center" width="50%">
+      <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="96%">
+    </td>
+  </tr>
+</table>
 
 <a id="readme-top"></a>
 
