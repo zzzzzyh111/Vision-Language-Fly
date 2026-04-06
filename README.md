@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="./Assets/indoor_tra.jpg" alt="Indoor trajectory result" width="430" style="border-radius: 12px; margin-right: 12px;">
-  <img src="./Assets/indoor_waypoints.jpg" alt="Indoor waypoint prediction" width="430" style="border-radius: 12px;">
+  <img src="./Assets/indoor_tra.jpg" alt="Indoor trajectory result" width="49%">
+  <img src="./Assets/indoor_waypoints.jpg" alt="Indoor waypoint prediction" width="49%">
 </p>
 
 <p align="center">
-  <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="430" style="border-radius: 12px; margin-right: 12px;">
-  <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="430" style="border-radius: 12px;">
+  <img src="./Assets/outdoor_tra.jpg" alt="Outdoor trajectory result" width="49%">
+  <img src="./Assets/outdoor_waypoints.jpg" alt="Outdoor waypoint prediction" width="49%">
 </p>
 
 <a id="readme-top"></a>
