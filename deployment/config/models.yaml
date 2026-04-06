@@ -1,0 +1,3 @@
+vlfly:
+  config_path: ../config/vlfly.yaml
+  ckpt_path: ../model_weights/vint.pth

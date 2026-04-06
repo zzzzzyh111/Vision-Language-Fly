@@ -1,0 +1,12 @@
+model_type: vlfly
+obs_encoder: efficientnet-b0
+obs_encoding_size: 512
+late_fusion: false
+mha_num_attention_heads: 4
+mha_num_attention_layers: 4
+mha_ff_dim_factor: 4
+normalize: true
+context_size: 5
+len_traj_pred: 5
+learn_angle: true
+image_size: [85, 64]
